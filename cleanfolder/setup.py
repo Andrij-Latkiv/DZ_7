@@ -5,7 +5,7 @@ setup(
     name='cleanfolder',
     version='1.0.0',
     description='Sort files',
-    url='https://github.com/Andrij-Latkiv/DZ-6/blob/main/sort_4.py',
+    url='https://github.com/Andrij-Latkiv/DZ_7',
     author='Andrij Latkivkiy',
     author_email='latkivskijandrij@gmail.com',
     license='Apache License 2.0',
